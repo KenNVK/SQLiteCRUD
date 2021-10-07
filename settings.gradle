@@ -1,0 +1,2 @@
+rootProject.name = "SQLiteCRUD"
+include ':app'
